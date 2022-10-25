@@ -16,6 +16,11 @@ Stack of Image Recognition libraries load - SciKit-Learn
 ## Prerequisites
 - Programming Language: Python :snake:
 - Library: Sci-kit-learn 
+- scikit-image     : https://scikit-image.org/docs/stable/api/skimage.io.html
+- scikit-color     : https://scikit-image.org/docs/stable/api/skimage.color.html
+- scikit-feature   : https://scikit-image.org/docs/stable/api/skimage.feature.html
+- scikit-transform : https://scikit-image.org/docs/stable/api/skimage.transform.html
+
 
 
 ### Python
