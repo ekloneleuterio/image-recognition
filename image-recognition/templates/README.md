@@ -6,6 +6,12 @@ Stack of Image Recognition libraries load - SciKit-Learn
 ## Objective
 * This template is focused on the load of the first libraries for image recognition projects.
 
+* skimage.io to import imread, imshow for image load and display.
+* skimage.color to import rgb2gray is used to define your color schema
+* skimage.feature is used to import match_template, peak_local_max to train and test your images
+* from skimage -  transform is used to transform your processed images.
+
+
 
 ## Prerequisites
 - Programming Language: Python :snake:
